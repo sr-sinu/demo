@@ -1,0 +1,5 @@
+taking another function as a argument
+without changing it explicitly
+is called decorator
+it is denoted by 
+@@decorator
